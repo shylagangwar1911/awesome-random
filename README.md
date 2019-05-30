@@ -156,6 +156,7 @@ Firefox has a great set of first issues to start learning how to work with their
 ## Content Management Systems
 
 ## Hardware
+- [Arduino] (https://www.arduino.cc/)
 
 ## Business
 - [Greaterfool Blog. Canadian real estate and politics.](https://www.greaterfool.ca/)
